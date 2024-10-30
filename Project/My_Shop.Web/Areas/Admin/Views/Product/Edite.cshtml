@@ -1,0 +1,62 @@
+﻿@model ProductVM
+@{
+    ViewBag.PageTitle = "Product Mangement";
+    ViewBag.CardTitle = "Edite product";
+    Layout = "~/Views/Shared/_Dashbourd.cshtml";
+
+}
+<h1>Edite</h1>
+<h4>Product</h4>
+<div class="row">
+    <div class="col-md-4">
+        <form  asp-action="Edite" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-asp-for="Product.id" />
+            <input type="hidden" asp-asp-for="Product.Img" />
+            <div mb-3>
+                <label asp-for="product.Name">Name</label>
+                <input asp-for="product.Name" class="form-control" />
+                <span asp-validation-for="product.Name" class="text-danger"></span>
+            </div>
+
+            <div mb-3>
+                <label asp-for="product.Description">Description</label>
+                <textarea asp-for="product.Description" class="form-control" /></textarea>
+                <span asp-validation-for="product.Description" class="text-danger"></span>
+            </div>
+            <div mb-3>
+                <label asp-for="product.Price">Price</label>
+                <input asp-for="product.Price" class="form-control" />
+                <span asp-validation-for="product.Price" class="text-danger"></span>
+            </div>
+            <div mb-3 class="form-group">
+                <label asp-for="product.Img">Img</label>
+                <input type="file" name="file" id="ImgFile" class="form-control" />
+                <span asp-validation-for="product.Img" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="product.CategoryId" class="control-label"></label>
+                <select asp-for="product.CategoryId" class="form-control" asp-items="Model.CategoryList">
+                    <option disabled selected>---- Select Category -----</option>
+                </select>
+            </div>
+            <br />
+            <div mb-3>
+                <input type="submit" value="Edite" class="btn btn-success"></input>
+
+
+            </div>
+
+
+        </form>
+    </div>
+        <div class="col-md-4">
+            <div class="container">
+               <img src="/@Model.product.Img" />
+          
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

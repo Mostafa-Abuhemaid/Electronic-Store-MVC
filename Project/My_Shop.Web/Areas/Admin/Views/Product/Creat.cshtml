@@ -1,0 +1,54 @@
+﻿@model ProductVM
+@{
+    ViewBag.PageTitle = "Product Mangement";
+    ViewBag.CardTitle = "Create product";
+    Layout = "~/Views/Shared/_Dashbourd.cshtml";
+
+}
+<h1>Creat</h1>
+<h4>Product</h4>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div mb-3>
+                <label asp-for="product.Name">Name</label>
+                <input asp-for="product.Name" class="form-control" />
+                <span asp-validation-for="product.Name" class="text-danger"></span>
+            </div>
+
+            <div mb-3>
+                <label asp-for="product.Description">Description</label>
+                <textarea asp-for="product.Description" class="form-control" /></textarea>
+                <span asp-validation-for="product.Description" class="text-danger"></span>
+            </div>
+            <div mb-3>
+                <label asp-for="product.Price">Price</label>
+                <input asp-for="product.Price" class="form-control" />
+                <span asp-validation-for="product.Price" class="text-danger"></span>
+            </div>
+            <div mb-3 class="form-group">
+                <label asp-for="product.Img">Img</label>
+                <input type="file" name="file" id="ImgFile" class="form-control" />
+                <span asp-validation-for="product.Img" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="product.CategoryId" class="control-label"></label>
+                <select asp-for="product.CategoryId" class="form-control" asp-items="Model.CategoryList">
+                    <option disabled selected>---- Select Category -----</option>
+                </select>
+            </div>
+            <br />
+            <div mb-3>
+                <input type="submit" value="Creat" class="btn btn-primary"></input>
+
+
+            </div>
+
+
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

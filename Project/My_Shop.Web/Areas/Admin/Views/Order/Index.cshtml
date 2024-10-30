@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.PageTitle = "Order Mangement";
+    ViewBag.CardTitle = "View Order";
+    Layout = "~/Views/Shared/_Dashbourd.cshtml";
+
+}
+<h1>Order List</h1>
+
+<table id="mytable" class="table table-hover">
+    <thead class="text-body">
+        <tr>
+            <td>Name</td>
+            <td>Descreption</td>
+            <td>Phone</td>
+            <td>Category</td>
+            <td>Actions</td>
+        </tr>
+    </thead>
+
+</table>
+@section Scripts {
+    <script src="~/js/Order.js"></script>
+}
