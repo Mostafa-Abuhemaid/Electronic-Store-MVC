@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6cfhiF9iu9WljF1mRUqeR90yVCqiRQWkqqZJLtcFWGvqkB/7oxhxOqYce7jGvLYAy2rzdiqRzLXeJkuU6f8FQ==",
+  "dgSpecHash": "MH5dQCngSl6GoRl94rOZC7CCAP03ShvrNZk/IvvFUrgKyOGI0HYMz1K525dwA3JEOwZ464sYCGtJ7N4dGljE+w==",
   "success": true,
-  "projectFilePath": "G:\\MVC_Project\\Solution1\\My_Shop.Web\\My_Shop.Web.csproj",
+  "projectFilePath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\My_Shop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CS\\.nuget\\packages\\abp\\6.6.2\\abp.6.6.2.nupkg.sha512",
     "C:\\Users\\CS\\.nuget\\packages\\abp.web.common\\6.6.2\\abp.web.common.6.6.2.nupkg.sha512",

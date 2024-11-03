@@ -9811,11 +9811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MVC_Project\\Solution1\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
+      "projectUniqueName": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
       "projectName": "My_Shop.DataAccess",
-      "projectPath": "G:\\MVC_Project\\Solution1\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
+      "projectPath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
       "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-      "outputPath": "G:\\MVC_Project\\Solution1\\My_Shop.DataAccess\\obj\\",
+      "outputPath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9836,8 +9836,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj": {
-              "projectPath": "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj"
+            "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj": {
+              "projectPath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj"
             }
           }
         }

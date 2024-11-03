@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJDVzv+Ae12hIaeFwI5+bLXekarUdSGISOcp97UuW4cAkLsk2L4En6hV4wrQlmr3mVplDlmSXZ+TZCFJLrNvbQ==",
+  "dgSpecHash": "yewgfGbwXT3nBs9fWTPUBAT/CoMphF4srs86Gg36goEwmbuDUvjAFMpR4NlFc6F7Zamu6XecHoQLrU/YOHwLbg==",
   "success": true,
-  "projectFilePath": "G:\\MVC_Project\\Solution1\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
+  "projectFilePath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.DataAccess\\My_Shop.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\CS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

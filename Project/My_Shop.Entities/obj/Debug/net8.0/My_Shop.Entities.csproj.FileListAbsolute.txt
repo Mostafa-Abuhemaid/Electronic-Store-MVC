@@ -10,3 +10,16 @@ G:\MVC_Project\Solution1\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.dll
 G:\MVC_Project\Solution1\My_Shop.Entities\obj\Debug\net8.0\refint\My_Shop.Entities.dll
 G:\MVC_Project\Solution1\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.pdb
 G:\MVC_Project\Solution1\My_Shop.Entities\obj\Debug\net8.0\ref\My_Shop.Entities.dll
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\bin\Debug\net8.0\My_Shop.Entities.deps.json
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\bin\Debug\net8.0\My_Shop.Entities.dll
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\bin\Debug\net8.0\My_Shop.Entities.pdb
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.csproj.AssemblyReference.cache
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.AssemblyInfoInputs.cache
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.AssemblyInfo.cs
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.csproj.CoreCompileInputs.cache
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.sourcelink.json
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.dll
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\refint\My_Shop.Entities.dll
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\My_Shop.Entities.pdb
+G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Entities\obj\Debug\net8.0\ref\My_Shop.Entities.dll

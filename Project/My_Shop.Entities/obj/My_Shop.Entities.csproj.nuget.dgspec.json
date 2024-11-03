@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj": {}
+    "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj": {}
   },
   "projects": {
-    "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj": {
+    "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj",
+        "projectUniqueName": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj",
         "projectName": "My_Shop.Entities",
-        "projectPath": "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\My_Shop.Entities.csproj",
+        "projectPath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\My_Shop.Entities.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "G:\\MVC_Project\\Solution1\\My_Shop.Entities\\obj\\",
+        "outputPath": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
