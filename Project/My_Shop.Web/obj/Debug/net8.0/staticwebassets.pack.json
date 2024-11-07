@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Customer\\js\\scripts.js"
     },
     {
+      "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\06e178d9-b754-4c03-a73a-ee6469229795.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\06e178d9-b754-4c03-a73a-ee6469229795.jpg"
+    },
+    {
       "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\101a656b-7744-4267-815b-9f7fb85caecf.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\101a656b-7744-4267-815b-9f7fb85caecf.jpg"
     },
@@ -45,6 +49,10 @@
       "PackagePath": "staticwebassets\\Images\\Product\\382be11c-08ce-4241-ae05-d3927bcd1e8a.jpg"
     },
     {
+      "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\7fddd2cf-70ce-4786-bcc7-9ac6309b96c0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7fddd2cf-70ce-4786-bcc7-9ac6309b96c0.jpg"
+    },
+    {
       "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\8af61469-9f88-4663-95f5-cf04c171b89f.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\8af61469-9f88-4663-95f5-cf04c171b89f.jpg"
     },
@@ -57,12 +65,24 @@
       "PackagePath": "staticwebassets\\Images\\Product\\b0fab6b7-49c1-459b-91c6-06d2fc75b4e0.webp"
     },
     {
+      "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\b475982e-0d31-48a1-9167-dfd670f132f2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b475982e-0d31-48a1-9167-dfd670f132f2.jpg"
+    },
+    {
+      "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\cb040e85-1ab2-424b-a4ee-c80303bd3608.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\cb040e85-1ab2-424b-a4ee-c80303bd3608.jpg"
+    },
+    {
       "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\d61f8f3e-e824-4312-8e6e-db15e0c46cad.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\d61f8f3e-e824-4312-8e6e-db15e0c46cad.jpg"
     },
     {
       "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\ef131bf5-44d5-472a-8439-8720dd4f0d94.webp",
       "PackagePath": "staticwebassets\\Images\\Product\\ef131bf5-44d5-472a-8439-8720dd4f0d94.webp"
+    },
+    {
+      "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\f9f6eee4-ce41-4bf8-912d-b1483b8a561c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\f9f6eee4-ce41-4bf8-912d-b1483b8a561c.jpg"
     },
     {
       "Id": "G:\\MVC_Project\\Electronic-Store-MVC\\Project\\My_Shop.Web\\wwwroot\\Images\\Product\\fe828964-ae88-45f9-bf14-244b9a450f97.webp",
