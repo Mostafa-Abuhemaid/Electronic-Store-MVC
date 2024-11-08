@@ -19,5 +19,6 @@
     <WebStackScaffolding_LayoutPageFile>~/Views/Shared/_Customer.cshtml</WebStackScaffolding_LayoutPageFile>
     <Area_SelectedScaffolderID>IdentityScaffolder</Area_SelectedScaffolderID>
     <Area_SelectedScaffolderCategoryPath>root/Identity</Area_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>G:\MVC_Project\Electronic-Store-MVC\Project\My_Shop.Web\Properties\PublishProfiles\site12108-WebDeploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
