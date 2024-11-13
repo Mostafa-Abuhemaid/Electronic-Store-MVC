@@ -109,7 +109,7 @@ namespace My_Shop.Web.Areas.Customer.Controllers
                 _uniteOfWork.Compelet();
             }
 
-            var domain = "https://localhost:44319/";
+            var domain = "http://smartstoredivice.runasp.net/";
             var options = new SessionCreateOptions
             {
                 LineItems = new List<SessionLineItemOptions>(),
